@@ -35,15 +35,7 @@ This repository may include:
 * Exported schematic PDFs
 * Design notes and block diagrams
 * Relevant component datasheets
-
----
-
-## 🧾 Revision History
-
-| Version | Date       | Description               |
-| ------- | ---------- | ------------------------- |
-| v1.0    | YYYY-MM-DD | Initial schematic release |
-
+* 
 ---
 
 ## ⚠️ Disclaimer
@@ -68,9 +60,9 @@ Specify the license under which these schematics are shared:
 
 ## 👤 Author
 
-**Name:** [Your Name]
+**Name:** [Sajad Mosayebi]
 **Field:** Embedded Systems / Hardware Design
-**Contact:** [Optional]
+**Contact:** [Smosaybi@gmail.com]
 
 ---
 
@@ -81,4 +73,4 @@ You are free to:
 * Study and review the schematics
 * Use them as a reference for your own designs
 
-Please provide proper attribution i
+Please provide proper attribution if reused.
