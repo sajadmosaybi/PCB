@@ -8,17 +8,6 @@ It is intended to provide clear, well-documented schematics for reference, revie
 
 ---
 
-## 📁 Repository Structure
-
-```
-.
-├── Schematics/        # Schematic source files (Altium, PDF, SCH, etc.)
-├── Datasheets/        # Component datasheets used in the design
-└── Docs/              # Design notes and explanations
-```
-
----
-
 ## 🛠 Tools Used
 
 * **EDA Software:** Altium Designer
